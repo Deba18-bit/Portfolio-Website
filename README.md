@@ -16,3 +16,19 @@ This is my personal developer portfolio website built using **HTML5** and **CSS3
 - Hover effects
 - Social media links
 - animations
+
+## 📁 Folder Structure
+Web-dev/
+├── index.html
+├── style.css
+├── README.md
+├── assets
+│__ images
+
+
+---
+
+## 📬 Contact
+
+If you'd like to get in touch, feel free to use the contact form in the website or connect via social media links in the footer.
+
