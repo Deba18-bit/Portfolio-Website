@@ -292,12 +292,15 @@ footer p{
         font-size: 24px;
         padding: 0%;
         text-align: center;
+        font-family:'copperplate', 'gothic', 'sans-serif';
     }
     .nav-list {
         flex-direction:row;
         align-items: center;
         padding: 10px;
         gap: 15px;
+        padding-left: 25px;
+        padding-right: 25px;
     }
     .contact-section {
         padding: 20px;
@@ -306,7 +309,7 @@ footer p{
         flex-direction:wrap;
         align-items: center;
         justify-content: center;
-        padding: 10px;
+        padding-bottom: 15px;
         gap: 15px;
     } 
   .contact-section h2{
